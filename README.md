@@ -38,7 +38,7 @@ Development Board.
 
 
 
-## space invader top
+1. space invader top
 The space invader top module is the main file which will run all the other modules and
 the whole game from the way the alien ships moves, to the different levels, to the VGA
 display as well as the players ship and controls.
