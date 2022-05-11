@@ -1,4 +1,5 @@
 # space-invaders-FPGA
+![image](https://user-images.githubusercontent.com/105385216/167924304-76c56bf7-3e5c-4426-880e-d29254b5e805.png)
 Space Invaders Game for the Digilent Artz Z-7 FPGA Board
 
 This project present the design and implementation of the game “Space Invader” taking its
@@ -25,8 +26,9 @@ Development Board.
 * BTN1 - move right
 * BTN0 - continue button
 * VGA out - connected to a monitor
+* Pmod ports-12pins
 
-![image](https://user-images.githubusercontent.com/105385216/167924304-76c56bf7-3e5c-4426-880e-d29254b5e805.png)
+
 
 ## About the Game modules
 
