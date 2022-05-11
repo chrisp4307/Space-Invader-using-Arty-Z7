@@ -1,10 +1,10 @@
-# fpga-space-invaders
-Space Invaders Game Designed in Verilog for the Digilent Artz FPGA Board
+# space-invaders-FPGA
+Space Invaders Game for the Digilent Artz Z-7 FPGA Board
 
-## Hardware/Software
+## Hardware/Software used
 * Digilent Artz FGPA Board - Zynq-7000 Development Board
 * VGA monitor that support 1024x768 resolution at 85Hz
-* Xilinx Vivado
+* Vivado Xilinx 
 
 ## I/O Pins
 * SW3 - start switch
