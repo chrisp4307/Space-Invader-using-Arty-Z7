@@ -1,5 +1,7 @@
 # space-invaders-FPGA
 ![image](https://user-images.githubusercontent.com/105385216/167924304-76c56bf7-3e5c-4426-880e-d29254b5e805.png)
+
+
 Space Invaders Game for the Digilent Artz Z-7 FPGA Board
 
 This project present the design and implementation of the game “Space Invader” taking its
@@ -32,7 +34,7 @@ Development Board.
 
 ## About the Game modules
 
-![image](https://user-images.githubusercontent.com/105385216/167924824-47f872f5-57b5-473c-854b-2dbc743bc34f.png)
+![image](https://user-images.githubusercontent.com/105385216/167925072-3183ebce-ec98-40c6-85c4-0a46d0acf185.png)
 
 1. space invader top
 The space invader top module is the main file which will run all the other modules and
