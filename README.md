@@ -38,21 +38,21 @@ Development Board.
 
 
 
-1. space invader top
+1. space invader top-
 The space invader top module is the main file which will run all the other modules and
 the whole game from the way the alien ships moves, to the different levels, to the VGA
 display as well as the players ship and controls.
-2. game controller
+2. game controller-
 This is the module that will control the game .There are total of 5 levels, each level will
 have a different score multiplier, it keeps on increasing with each level.
-3. inv ship controller
+3. inv ship controller-
 This module is to control the alien ships. There are 5 levels, in each level the pattern in
 which the alien ships moves and the position of the alien ships are different.
-4. player
+4. player-
 This module is for the player ship, which will be used to control the movement of the ship
 using buttons on the board.It will also have the firing controls. There are three buttons,
 two to move left and right and one to shoot.
-5. vga top
+5. vga top-
 This module is the main module for VGA connection, the size of the pixels for the player
 ships as well as alien ships are specified in this module, it will content the title screen,
 next level screen(blue screen), lost screen(red screen) and win screen (green screen).
