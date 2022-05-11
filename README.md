@@ -16,6 +16,7 @@ Development Board.
 * Digilent Artz Z7 FGPA Board - Zynq-7000 Development Board
 * VGA monitor that support 1024x768 resolution at 85Hz
 * Vivado Xilinx 
+* Digilent PMOD VGA (to connect board to monitor)
 
 ## I/O Pins
 * SW3 - start switch
@@ -24,7 +25,8 @@ Development Board.
 * BTN1 - move right
 * BTN0 - continue button
 * VGA out - connected to a monitor
-* Digilent PMOD VGA (to connect board to monitor)
+
+![image](https://user-images.githubusercontent.com/105385216/167924304-76c56bf7-3e5c-4426-880e-d29254b5e805.png)
 
 ## About the Game modules
 
